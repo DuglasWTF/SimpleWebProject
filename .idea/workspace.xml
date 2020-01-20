@@ -6,22 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c5cac2b-41d1-4380-ac68-edd3697c699b" name="Default Changelist" comment="start">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/WEB-INF/classes/app/servlets/AddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/WEB-INF/classes/app/servlets/AddServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/WEB-INF/classes/app/servlets/ListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/WEB-INF/classes/app/servlets/ListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/views/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SimpleWebProject_war_exploded/views/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/ListServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/servlets/AddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/servlets/AddServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/servlets/ListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/servlets/ListServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/list.jsp" afterDir="false" />
+    <list default="true" id="6c5cac2b-41d1-4380-ac68-edd3697c699b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -111,6 +97,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владмир Трусов\Documents\Projects\SimpleWebProject\src\main\java" />
+    </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.30">
     <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -315,7 +306,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579261265981</updated>
       <workItem from="1579261272064" duration="7792000" />
-      <workItem from="1579513017355" duration="16945000" />
+      <workItem from="1579513017355" duration="17450000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1579273787488</created>
@@ -324,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579273787489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Продолжаю разбираться с веб и базами данных">
+      <created>1579532655864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579532655865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +330,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="Продолжаю разбираться с веб и базами данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="Продолжаю разбираться с веб и базами данных" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1579527607228">
@@ -359,10 +358,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579265542614" />
-    <state x="507" y="115" key="CommitChangelistDialog2" timestamp="1579273855308">
+    <state x="507" y="115" key="CommitChangelistDialog2" timestamp="1579532654317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="507" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579273855308" />
+    <state x="507" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579532654317" />
     <state x="184" y="92" key="DiffContextDialog" timestamp="1579273967445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -375,10 +374,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579273892811" />
-    <state x="816" y="414" key="Github.ShareDialog" timestamp="1579273418691">
+    <state x="816" y="414" key="Github.ShareDialog" timestamp="1579532805684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579273418691" />
+    <state x="816" y="414" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579532805684" />
     <state x="653" y="226" key="Github.UntrackedFilesDialog" timestamp="1579273335546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -459,10 +458,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579273527225" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579273969227">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579532833962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579273969227" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579532833962" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579513048188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -471,10 +470,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="530" y="166" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579266712741" />
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579532605257">
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579532722896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579532605257" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579532722896" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
