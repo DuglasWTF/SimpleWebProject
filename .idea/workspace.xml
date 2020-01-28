@@ -6,15 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c5cac2b-41d1-4380-ac68-edd3697c699b" name="Default Changelist" comment="Продолжаю разбираться с веб и базами данных">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TEST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/dao/DAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/dao/DAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/servlets/AddServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TEST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TEST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/dao/DAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/dao/DAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/servlets/AddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app/servlets/AddServlet.class" afterDir="false" />
+    <list default="true" id="6c5cac2b-41d1-4380-ac68-edd3697c699b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/serveices/DBConnector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +311,7 @@
       <updated>1579261265981</updated>
       <workItem from="1579261272064" duration="7792000" />
       <workItem from="1579513017355" duration="17600000" />
-      <workItem from="1580197398536" duration="14131000" />
+      <workItem from="1580197398536" duration="14393000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1579273787488</created>
@@ -341,7 +334,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579532935977</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="получилось подключиться к БЛ и реализовать добавление через веб форму">
+      <created>1580213374369</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580213374369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="получилось подключиться к БЛ и реализовать добавление через веб форму">
+      <created>1580213443321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580213443321</updated>
+    </task>
+    <task id="LOCAL-00006" summary="получилось подключиться к БЛ и реализовать добавление через веб форму">
+      <created>1580213482514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580213482514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +364,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="Продолжаю разбираться с веб и базами данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="Продолжаю разбираться с веб и базами данных" />
+    <MESSAGE value="получилось подключиться к БЛ и реализовать добавление через веб форму" />
+    <option name="LAST_COMMIT_MESSAGE" value="получилось подключиться к БЛ и реализовать добавление через веб форму" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1579527607228">
@@ -381,10 +396,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1580200765030" />
-    <state x="507" y="115" key="CommitChangelistDialog2" timestamp="1580213442008">
+    <state x="507" y="115" key="CommitChangelistDialog2" timestamp="1580213481123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="507" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580213442008" />
+    <state x="507" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580213481123" />
     <state width="395" height="438" key="DebuggerActiveHint" timestamp="1580201354314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -501,10 +516,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580209197119" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580213395671">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580213543304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580213395671" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580213543304" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579513048188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
