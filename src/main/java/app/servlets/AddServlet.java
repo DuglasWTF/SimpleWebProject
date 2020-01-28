@@ -1,5 +1,6 @@
 package app.servlets;
 
+import app.dao.DAO;
 import app.model.Model;
 import app.entities.User;
 
@@ -10,6 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.sql.Date;
 import java.sql.SQLException;
 
 public class AddServlet extends HttpServlet {
@@ -26,6 +28,7 @@ public class AddServlet extends HttpServlet {
         User user = new User(name, password);
         Model model = Model.getInstance();
         model.add(user);
+
         try {
             model.addUser(user);
         } catch (SQLException | ClassNotFoundException e) {

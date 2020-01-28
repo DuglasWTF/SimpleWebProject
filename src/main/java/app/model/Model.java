@@ -30,8 +30,8 @@ public class Model {
 
     private Model () throws SQLException {
 
-        model = new ArrayList<>();
-        db = new DAO();
+        this.model = new ArrayList<>();
+        this.db = new DAO();
 
     }
 
